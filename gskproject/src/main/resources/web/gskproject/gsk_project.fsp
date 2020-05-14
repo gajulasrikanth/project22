@@ -1,6 +1,0 @@
-<?taglib uri="http://www.carewebframework.org/tld/security" prefix="sec"?>
-<?taglib uri="http://www.carewebframework.org/tld/core" prefix="rc"?>
-
-	<div controller="${@gsk_projectController}">
-		<label label="Hello World!"/>
-	</div>
